@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CurrenciesApp</string>
+
+
+    <string name="curr_aud_name">Australian dollar</string>
+    <string name="curr_bgn_name">Bulgarian lev</string>
+    <string name="curr_brl_name">Brazilian real</string>
+    <string name="curr_cad_name">Canadian dollar</string>
+    <string name="curr_chf_name">Swiss franc</string>
+    <string name="curr_cny_name">Chinese yuan</string>
+    <string name="curr_czk_name">Czech koruna</string>
+    <string name="curr_dkk_name">Danish krone</string>§
+    <string name="curr_eur_name">Euro</string>
+    <string name="curr_gbp_name">British pound</string>
+    <string name="curr_hkd_name">Hong Kong dollar</string>
+    <string name="curr_hrk_name">Croatian kuna</string>
+    <string name="curr_huf_name">Hungarian forint</string>
+    <string name="curr_idr_name">Indonesian rupiah</string>
+    <string name="curr_ils_name">Israeli new shekel</string>
+    <string name="curr_inr_name">Indian rupee</string>
+    <string name="curr_isk_name">Icelandic krona</string>
+    <string name="curr_jpy_name">Japanese yen</string>
+    <string name="curr_krw_name">South Korean won</string>
+    <string name="curr_mxn_name">Mexican peso</string>
+    <string name="curr_myr_name">Malaysian ringgit</string>
+    <string name="curr_nok_name">Norwegian krone</string>
+    <string name="curr_nzd_name">New Zealand dollar</string>
+    <string name="curr_php_name">Philippine piso</string>
+    <string name="curr_pln_name">Polish zloty</string>
+    <string name="curr_ron_name">Romanian leu</string>
+    <string name="curr_rub_name">Russian ruble</string>
+    <string name="curr_sek_name">Swedish krona</string>
+    <string name="curr_sgd_name">Singapore dollar</string>
+    <string name="curr_thb_name">Thai baht</string>
+    <string name="curr_try_name">Turkish lira</string>
+    <string name="curr_usd_name">United States dollar</string>
+    <string name="curr_zar_name">South African rand</string>
+
+    <string name="currency_list_title">Rates</string>
+    <string name="currencies_error">Could not load currencies</string>
+    <string name="retry">Retry</string>
+
+    <string name="currency_row_hint">0</string>
+</resources>
